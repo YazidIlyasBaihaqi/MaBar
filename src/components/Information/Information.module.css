@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  margin: 1rem;
+  color: white;
+  width: 20rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.group {
+  width: 75%;
+  margin: 1rem;
+  background-color: rgba(232, 237, 243, 0.75);
+  flex-direction: row;
+  display: flex;
+}
+
+.paragraph {
+  text-align: center;
+  align-items: center;
+  height: auto;
+  margin: auto;
+}

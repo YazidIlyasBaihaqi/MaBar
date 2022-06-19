@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  text-align: center;
+  padding: 0.5 rem;
+  margin: 1rem;
+  flex-direction: column;
+}
+
+.title {
+  color: #fff;
+  font-size: 1rem;
+}
+
+.image {
+  width: auto;
+  height: auto;
+}
